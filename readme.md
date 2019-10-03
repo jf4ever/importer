@@ -7,3 +7,7 @@ composer install
 php artisan migrate
 
 php artisan serve
+
+Это мой первый плотный опыт с ларой, сильно не ругайте. 
+
+Если надо могу обернуть в docker
