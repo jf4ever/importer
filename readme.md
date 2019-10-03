@@ -6,7 +6,7 @@ composer install
 
 php artisan migrate
 
-php artisan serve
+php artisan serve ( php artisan --port=80 serve для http://locahost/ )
 
 Это мой первый плотный опыт с ларой, сильно не ругайте. 
 
